@@ -1,0 +1,16 @@
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\bin\Debug\Skeletal System Final.exe
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\bin\Debug\Skeletal System Final.pdb
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\bin\Debug\Skeletal System Final.xml
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal_System.Form1.resources
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal_System.Form2.resources
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal_System.Resources.resources
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal System Final.vbproj.GenerateResource.Cache
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal System Final.exe
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal System Final.xml
+C:\Users\Rey Bandal\Desktop\Skeletal System Final\Skeletal System Final\obj\x86\Debug\Skeletal System Final.pdb
+C:\Users\Rey Bandal\Desktop\Skeletal System\Skeletal System Final\obj\x86\Debug\Skeletal System Final.exe
+C:\Users\Rey Bandal\Desktop\Skeletal System\Skeletal System Final\obj\x86\Debug\Skeletal System Final.xml
+C:\Users\Rey Bandal\Desktop\Skeletal System\Skeletal System Final\obj\x86\Debug\Skeletal System Final.pdb
+C:\Users\Rey Bandal\Desktop\Skeletal System Application\Skeletal-System-Application\Skeletal System Final\obj\x86\Debug\Skeletal System Final.exe
+C:\Users\Rey Bandal\Desktop\Skeletal System Application\Skeletal-System-Application\Skeletal System Final\obj\x86\Debug\Skeletal System Final.xml
+C:\Users\Rey Bandal\Desktop\Skeletal System Application\Skeletal-System-Application\Skeletal System Final\obj\x86\Debug\Skeletal System Final.pdb

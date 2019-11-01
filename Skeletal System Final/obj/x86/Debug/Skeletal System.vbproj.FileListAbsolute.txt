@@ -1,0 +1,10 @@
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\bin\Debug\Skeletal System.exe
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\bin\Debug\Skeletal System.pdb
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\bin\Debug\Skeletal System.xml
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal_System.Form1.resources
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal_System.Resources.resources
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal System.vbproj.GenerateResource.Cache
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal System.exe
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal System.xml
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal System.pdb
+C:\Users\Rey Bandal\AppData\Local\Temporary Projects\Skeletal System\obj\x86\Debug\Skeletal_System.Form2.resources
