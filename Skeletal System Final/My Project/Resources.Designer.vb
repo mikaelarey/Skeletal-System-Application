@@ -63,6 +63,106 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property back_body() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("back_body", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property back_hand() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("back_hand", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property back_head() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("back_head", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property back_leg() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("back_leg", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property back_pelvis() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("back_pelvis", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Front_body() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Front_body", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Front_hand() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Front_hand", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Front_head() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Front_head", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Front_leg() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Front_leg", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Front_pelvis() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Front_pelvis", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property icons8_compress_32() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("icons8_compress_32", resourceCulture)
@@ -123,9 +223,109 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property skeletal_back1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_back1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_back2() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_back2", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_back3() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_back3", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_back4() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_back4", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_back5() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_back5", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property skeletal_front() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("skeletal_front", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_front1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_front1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_front2() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_front2", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_front3() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_front3", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_front4() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_front4", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skeletal_front5() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skeletal_front5", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

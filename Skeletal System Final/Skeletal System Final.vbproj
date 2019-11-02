@@ -153,6 +153,66 @@
   <ItemGroup>
     <None Include="Resources\timthumb.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_front1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_front2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_front3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_front4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_front5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front_body.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front_hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front_head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front_leg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front_pelvis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_back2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_back3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_back4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skeletal_back5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_body.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_leg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_pelvis.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

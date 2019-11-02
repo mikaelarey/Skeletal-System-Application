@@ -15,6 +15,46 @@ SkeletalSystemFinal
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.back_body">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.back_hand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.back_head">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.back_leg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.back_pelvis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.Front_body">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.Front_hand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.Front_head">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.Front_leg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.Front_pelvis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:Skeletal_System.My.Resources.Resources.icons8_compress_32">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -39,7 +79,47 @@ SkeletalSystemFinal
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_back2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_back3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_back4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_back5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Skeletal_System.My.Resources.Resources.skeletal_front5">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
